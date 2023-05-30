@@ -15,16 +15,17 @@ Create a virtual environment: In the terminal, run the following command to crea
 ### python -m venv venv
 
 Activate the virtual environment: In the terminal, run the appropriate command to activate the virtual environment based on your operating system:
-Windows:
-### .\venv\Scripts\activate
 
-macOS/Linux:
-### source venv/bin/activate
+### Windows:
+.\venv\Scripts\activate
+
+### macOS/Linux:
+source venv/bin/activate
 
 ## Step 3
 Move to the folder where all the file are stored
 
 ## Step 4
-Run the web_app.py 
-### streamlit run web_app.py
+## Run the web_app.py 
+streamlit run web_app.py
   
