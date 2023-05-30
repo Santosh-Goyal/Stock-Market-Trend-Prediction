@@ -12,7 +12,7 @@ Install all required library in VS Code
 
 ## Step 2
 Create a virtual environment: In the terminal, run the following command to create a virtual environment for your project:
-### python -m venv venv
+python -m venv venv
 
 Activate the virtual environment: In the terminal, run the appropriate command to activate the virtual environment based on your operating system:
 
